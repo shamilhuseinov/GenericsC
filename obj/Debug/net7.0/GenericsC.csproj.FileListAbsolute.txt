@@ -1,0 +1,15 @@
+/Users/samil/Projects/GenericsC/GenericsC/bin/Debug/net7.0/GenericsC
+/Users/samil/Projects/GenericsC/GenericsC/bin/Debug/net7.0/GenericsC.deps.json
+/Users/samil/Projects/GenericsC/GenericsC/bin/Debug/net7.0/GenericsC.runtimeconfig.json
+/Users/samil/Projects/GenericsC/GenericsC/bin/Debug/net7.0/GenericsC.dll
+/Users/samil/Projects/GenericsC/GenericsC/bin/Debug/net7.0/GenericsC.pdb
+/Users/samil/Projects/GenericsC/GenericsC/obj/Debug/net7.0/GenericsC.csproj.AssemblyReference.cache
+/Users/samil/Projects/GenericsC/GenericsC/obj/Debug/net7.0/GenericsC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samil/Projects/GenericsC/GenericsC/obj/Debug/net7.0/GenericsC.AssemblyInfoInputs.cache
+/Users/samil/Projects/GenericsC/GenericsC/obj/Debug/net7.0/GenericsC.AssemblyInfo.cs
+/Users/samil/Projects/GenericsC/GenericsC/obj/Debug/net7.0/GenericsC.csproj.CoreCompileInputs.cache
+/Users/samil/Projects/GenericsC/GenericsC/obj/Debug/net7.0/GenericsC.dll
+/Users/samil/Projects/GenericsC/GenericsC/obj/Debug/net7.0/refint/GenericsC.dll
+/Users/samil/Projects/GenericsC/GenericsC/obj/Debug/net7.0/GenericsC.pdb
+/Users/samil/Projects/GenericsC/GenericsC/obj/Debug/net7.0/GenericsC.genruntimeconfig.cache
+/Users/samil/Projects/GenericsC/GenericsC/obj/Debug/net7.0/ref/GenericsC.dll
